@@ -1,0 +1,35 @@
+{
+  "updated_at": "2026-07-28 10:20:45 UTC",
+  "services": [
+    {
+      "name": "EA Services",
+      "ok": true,
+      "status": "Reachable"
+    },
+    {
+      "name": "Epic Games",
+      "ok": true,
+      "status": "Operational"
+    },
+    {
+      "name": "Nintendo Network",
+      "ok": true,
+      "status": "Reachable"
+    },
+    {
+      "name": "PlayStation Network",
+      "ok": true,
+      "status": "Reachable"
+    },
+    {
+      "name": "Steam",
+      "ok": false,
+      "status": "Degraded"
+    },
+    {
+      "name": "Xbox Live",
+      "ok": true,
+      "status": "Reachable"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="refresh" content="60">
+    <title>Game Services Status</title>
+    <style>
+        body { font-family: system-ui, sans-serif; background: #0f172a; color: #f8fafc; padding: 20px; display: flex; flex-direction: column; align-items: center; }
+        .container { width: 100%; max-width: 500px; }
+        h2 { text-align: center; color: #38bdf8; }
+        .updated { font-size: 0.8rem; color: #94a3b8; text-align: center; margin-bottom: 20px; }
+        .card { background: #1e293b; padding: 15px 20px; border-radius: 10px; margin-bottom: 10px; display: flex; justify-content: space-between; align-items: center; border: 1px solid #334155; }
+        .name { font-weight: bold; }
+        .badge { padding: 4px 10px; border-radius: 6px; font-size: 0.85rem; font-weight: bold; }
+        .bg-green { background: #059669; color: #fff; }
+        .bg-red { background: #dc2626; color: #fff; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>🎮 وضعیت سرویس‌های گیمینگ</h2>
+        <div class="updated">آخرین بروزرسانی: 2026-07-28 10:20:45 UTC</div>
+        
+        <div class="card">
+            <span class="name">EA Services</span>
+            <span class="badge bg-green">Reachable</span>
+        </div>
+        
+        <div class="card">
+            <span class="name">Epic Games</span>
+            <span class="badge bg-green">Operational</span>
+        </div>
+        
+        <div class="card">
+            <span class="name">Nintendo Network</span>
+            <span class="badge bg-green">Reachable</span>
+        </div>
+        
+        <div class="card">
+            <span class="name">PlayStation Network</span>
+            <span class="badge bg-green">Reachable</span>
+        </div>
+        
+        <div class="card">
+            <span class="name">Steam</span>
+            <span class="badge bg-red">Degraded</span>
+        </div>
+        
+        <div class="card">
+            <span class="name">Xbox Live</span>
+            <span class="badge bg-green">Reachable</span>
+        </div>
+        
+    </div>
+</body>
+</html>
