@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30 09:43:22 UTC",
+  "updated_at": "2026-07-30 11:43:00 UTC",
   "services": [
     {
       "name": "EA Services",
@@ -8,8 +8,8 @@
     },
     {
       "name": "Epic Games",
-      "ok": false,
-      "status": "Issues Detected"
+      "ok": true,
+      "status": "Operational"
     },
     {
       "name": "Nintendo Network",
