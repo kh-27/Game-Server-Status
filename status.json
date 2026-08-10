@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10 21:22:03 UTC",
+  "updated_at": "2026-08-10 22:09:18 UTC",
   "services": [
     {
       "name": "EA Services",
@@ -28,8 +28,8 @@
     },
     {
       "name": "Xbox Live",
-      "ok": false,
-      "status": "HTTP 404"
+      "ok": true,
+      "status": "Reachable"
     }
   ]
 }
