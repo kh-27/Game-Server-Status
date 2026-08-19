@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19 18:13:04 UTC",
+  "updated_at": "2026-08-19 18:57:34 UTC",
   "services": [
     {
       "name": "EA Services",
@@ -13,8 +13,8 @@
     },
     {
       "name": "Nintendo Network",
-      "ok": false,
-      "status": "Unreachable (ReadTimeout)"
+      "ok": true,
+      "status": "Reachable"
     },
     {
       "name": "PlayStation Network",
