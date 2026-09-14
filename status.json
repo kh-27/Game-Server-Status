@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14 18:36:41 UTC",
+  "updated_at": "2026-09-14 22:03:59 UTC",
   "services": [
     {
       "name": "EA Services",
@@ -8,8 +8,8 @@
     },
     {
       "name": "Epic Games",
-      "ok": true,
-      "status": "Operational"
+      "ok": false,
+      "status": "Unreachable (JSONDecodeError)"
     },
     {
       "name": "Nintendo Network",
